@@ -1,0 +1,35 @@
+input{
+    margin-top: 10px;
+    height: 30px;
+    line-height: 25px;
+    text-indent: 10px;
+    width: 98%;
+}
+
+.custom-container{
+
+}
+
+.list{
+    margin-top: 5px ;
+}
+.list li{
+    padding: 5px;
+    background-color: #bcbcbc;
+}
+
+.list li span{
+    display: block;
+}
+
+.list li span.name{
+    float: left;
+}
+
+.list li span.phone{
+    float: right;
+}
+
+.list li span.clear-fix{
+    clear: both;
+}
